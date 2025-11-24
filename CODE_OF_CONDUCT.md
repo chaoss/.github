@@ -76,7 +76,7 @@ victims without their affirmative consent.
 
 The following people comprise the CHAOSS Code of Conduct Team and are the only 
 recipients of <chaoss-conduct@googlegroups.com>:
- - MaryBlessing Okolie 
+ - Maryblessing Okolie 
  - Kevin Lumbard
  - Anita Ihuman
 
