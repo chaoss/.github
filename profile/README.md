@@ -4,7 +4,7 @@ Image from Elizabeth Barron, CHAOSS Community Manager
 # Welcome
 
 Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢迎 
-أهلا بك; ようこそ; 환영; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi)
+أهلا بك; ようこそ; 환영합니다; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi)
 
 In CHAOSS, we help people better understand the health of the open source communities that they care about. As open source is now a critical part in nearly everything we do, understanding the health of open source communities is really important. Thanks for checking us out!
 
