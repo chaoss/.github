@@ -76,10 +76,12 @@ victims without their affirmative consent.
 
 The following people comprise the CHAOSS Code of Conduct Team and are the only 
 recipients of <chaoss-conduct@googlegroups.com>:
- - Maryblessing Okolie 
- - Kevin Lumbard
- - Anita Ihuman
 
+- Josh Berkus
+- Anita Ihuman 
+- Laura Langdon
+- Rowland Mosbergen
+- Maryblessing Okolie
 
 ## Attribution
 
@@ -92,6 +94,8 @@ available at https://geekfeminism.org/about/code-of-conduct/
 [gf-homepage]: https://geekfeminism.org/
 
 ## Version History
+
+* v1.4 Members were updated by the Governing Board in April 2026
 
 * v1.3 New members were added from a Governing Board vote in January 2024
 
